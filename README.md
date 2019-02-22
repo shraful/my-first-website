@@ -29,8 +29,8 @@ This project was written in:
 <li>W3C validator</li>
 </ul>
 
-##### Link imported:
+##### Links imported:
 <ul> 
-<li>Wikipedia.org</li>
+<li>wikipedia.org</li>
 <li>stackoverflow.com</li>
 </ul>
