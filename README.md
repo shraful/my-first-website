@@ -29,7 +29,7 @@ This project was written in:
 <li>W3C validator</li>
 </ul>
 
-##### Links imported:
+##### Link imported:
 <ul> 
 <li>Wikipedia</li>
 </ul>
