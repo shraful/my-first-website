@@ -31,5 +31,6 @@ This project was written in:
 
 ##### Link imported:
 <ul> 
-<li>Wikipedia</li>
+<li>Wikipedia.org</li>
+<li>stackoverflow.com</li>
 </ul>
